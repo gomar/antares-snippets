@@ -1,0 +1,12 @@
+<snippet>
+	<tabTrigger>w#</tabTrigger>
+    <scope>source.python</scope>
+    <description>Antares Writer</description>
+	<content><![CDATA[
+writer = Writer()
+writer['filename'] = '${1:test.dat}'
+writer['file_format'] = '${2:bin_tp}'
+writer['base'] = ${3:base}
+writer.dump()
+]]></content>
+</snippet>

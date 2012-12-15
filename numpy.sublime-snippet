@@ -1,0 +1,6 @@
+<snippet>
+	<tabTrigger>ant#</tabTrigger>
+    <scope>source.python</scope>
+    <description>Import antares</description>
+	<content><![CDATA[from antares import *]]></content>
+</snippet>

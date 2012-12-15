@@ -1,0 +1,6 @@
+<snippet>
+	<tabTrigger>np#</tabTrigger>
+    <scope>source.python</scope>
+    <description>Import numpy</description>
+	<content><![CDATA[import numpy as np]]></content>
+</snippet>
