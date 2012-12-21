@@ -1,0 +1,11 @@
+<snippet>
+	<tabTrigger>chg#</tabTrigger>
+    <scope>-source</scope>
+    <description>changes changed</description>
+	<content><![CDATA[
+<li>
+    <span class="label">changed</span> 
+    ${1:patate}
+</li>
+]]></content>
+</snippet>
