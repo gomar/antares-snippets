@@ -1,0 +1,13 @@
+<snippet>
+	<tabTrigger>t#</tabTrigger>
+    <scope>source.python</scope>
+    <description>Antares Treatment</description>
+	<content><![CDATA[
+t = Treatment('${1:fft}')
+t['base'] = ${2:base}
+${3:t['${4:key1}'] = ${5:value1}}
+${6:t['${7:key2}'] = ${8:value2}}
+${9:t['${10:key3}'] = ${11:value3}}
+${12:result} = t.execute()
+]]></content>
+</snippet>

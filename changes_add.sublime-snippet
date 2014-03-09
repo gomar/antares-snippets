@@ -1,0 +1,11 @@
+<snippet>
+	<tabTrigger>add#</tabTrigger>
+    <scope>-source</scope>
+    <description>changes added</description>
+	<content><![CDATA[
+<li>
+    <span class="label label-info">added</span> 
+    ${1:patate}
+</li>
+]]></content>
+</snippet>

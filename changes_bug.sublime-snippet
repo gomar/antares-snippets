@@ -1,0 +1,11 @@
+<snippet>
+	<tabTrigger>bug#</tabTrigger>
+    <scope>-source</scope>
+    <description>changes fixed</description>
+	<content><![CDATA[
+<li>
+	<span class="label label-important">fixed</span> 
+    ${1:patate}
+</li>
+]]></content>
+</snippet>

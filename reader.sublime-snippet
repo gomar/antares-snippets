@@ -1,0 +1,13 @@
+<snippet>
+	<tabTrigger>r#</tabTrigger>
+    <scope>source.python</scope>
+    <description>Antares Reader</description>
+	<content><![CDATA[
+r = Reader()
+r['filename'] = '${1:test.dat}'
+r['file_format'] = '${2:bin_tp}'
+${3:r['topology_file'] = '${4:test}'
+r['zone_prefix'] = 'Block'}
+base = r.read()
+]]></content>
+</snippet>
