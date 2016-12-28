@@ -1,6 +1,6 @@
 # Antares snippets
 
-In case you don't know, [Antares](https://www.cerfacs.fr/antares) is an awesome post-processing library and [Sublime Text](https://www.sublimetext.com) is an awesome text editor.
+In case you don't know, [Antares](http://www.cerfacs.fr/antares) is an awesome post-processing library and [Sublime Text](https://www.sublimetext.com) is an awesome text editor.
 As most of the time you end up writing scripts, I wrote some snippets to accelerate the process of writing an Antares script.
 
 ## Getting Started
